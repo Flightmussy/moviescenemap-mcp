@@ -95,8 +95,8 @@ ATLAS_JSON=/path/to/atlas-compact.json PORT=8896 node server.mjs
 Or with Docker, which bakes the public copy of the atlas into the image:
 
 ```sh
-docker build -t filmmap-mcp .
-docker run -p 8896:8896 filmmap-mcp     # → http://localhost:8896/mcp
+docker build -t moviescenemap-mcp .
+docker run -p 8896:8896 moviescenemap-mcp     # → http://localhost:8896/mcp
 ```
 
 `HOST` defaults to `127.0.0.1`; the container sets `0.0.0.0` because the default
