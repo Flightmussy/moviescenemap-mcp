@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "moviescenemap": {
+      "type": "http",
+      "url": "https://moviescenemap.com/mcp"
+    }
+  }
+}
