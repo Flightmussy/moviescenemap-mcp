@@ -10,7 +10,7 @@
     { "src": "https://moviescenemap.com/apple-touch-icon.png", "mimeType": "image/png", "sizes": ["180x180"] }
   ],
   "repository": {
-    "url": "https://github.com/Flightmussy/filmmap-mcp",
+    "url": "https://github.com/Flightmussy/moviescenemap-mcp",
     "source": "github"
   },
   "remotes": [
